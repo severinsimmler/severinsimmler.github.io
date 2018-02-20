@@ -3,82 +3,81 @@
 *******/
 
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
-
 body {
-    padding-left: 30px;
-    letter-spacing: 1px;
-    line-height: 15px;
-    font-family: Helvetica, Verdana, Arial, sans-serif;
-    font-size: 12px;
-    background: #F7F7F7;
+  padding-left: 30px;
+  letter-spacing: 1px;
+  line-height: 15px;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+  font-size: 12px;
+  background: #F7F7F7;
 }
 
 a:link {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 a:active {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 a:visited {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 a:hover {
-    text-decoration: underline;
-    color:black;
+  text-decoration: underline;
+  color: black;
 }
 
 img {
-    max-width: 100%;
-    width: 700;
-    margin: 20px 20px 20px 20px;
+  max-width: 100%;
+  width: 700;
+  margin: 20px 20px 20px 20px;
 }
 
 #menu {
-    width: 240px;
-    overflow: auto;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    position: fixed;
-    height: 100%;
-    background-color: #CCCCCC;
+  width: 240px;
+  overflow: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  height: 100%;
+  background-color: #CCCCCC;
 }
 
 #menu ul {
-    list-style: none;
-    margin: 0 0 12px 0;
+  list-style: none;
+  margin: 0 0 12px 0;
 }
 
-
 #content {
-    height: 100%;
-    margin: 0 0 0 215px;
-    top: 0;
+  height: 100%;
+  margin: 0 0 0 215px;
+  top: 0;
 }
 
 .container {
-    padding: 5px 5px 25px 5px;
+  padding: 5px 5px 25px 5px;
 }
 
 #content p {
-    width: 400px;
-    margin-bottom: 9px; }
+  width: 400px;
+  margin-bottom: 9px;
+}
 
 h5 {
-    text-transform: uppercase;
-    margin-bottom: 10px;
-    font-style: normal;
-    font-weight: normal;
-    font-family: Helvetica, Verdana, Arial, sans-serif;
-    font-size: 12px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  font-style: normal;
+  font-weight: normal;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+  font-size: 12px;
 }
